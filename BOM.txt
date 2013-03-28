@@ -1,0 +1,37 @@
+Partlist
+
+Exported from camSplit.sch at 3/28/13 10:39 AM
+
+EAGLE Version 6.1.0 Copyright (c) 1988-2012 CadSoft
+
+Assembly variant: 
+
+Part     Value                       Device                      Package    Library               Sheet
+
+2XAAA                                12BH423-GR                  12BH423-GR eagle-plastic-devices 1
+CAM1     161-2508-EXTHRU-HOLE-PCB-RA 161-2508-EXTHRU-HOLE-PCB-RA PCB-HORIZ  kobiconn-161-2508-ex  1
+CAM2     161-2508-EXTHRU-HOLE-PCB-RA 161-2508-EXTHRU-HOLE-PCB-RA PCB-HORIZ  kobiconn-161-2508-ex  1
+CAM3     161-2508-EXTHRU-HOLE-PCB-RA 161-2508-EXTHRU-HOLE-PCB-RA PCB-HORIZ  kobiconn-161-2508-ex  1
+CAM4     161-2508-EXTHRU-HOLE-PCB-RA 161-2508-EXTHRU-HOLE-PCB-RA PCB-HORIZ  kobiconn-161-2508-ex  1
+CAM_IN   161-2508-EXTHRU-HOLE-PCB-RA 161-2508-EXTHRU-HOLE-PCB-RA PCB-HORIZ  kobiconn-161-2508-ex  1
+FOC      SKHHCWA010                  SKHH                        SKHH       alps                  1
+JP1      conn                        PINHD-1X6                   1X06       pinhead               1
+LFOC                                 LED3MM                      LED3MM     SparkFun              1
+LSHT                                 LED3MM                      LED3MM     SparkFun              1
+OK1      ACPL-227                    ACPL-227                    SOIC8      avago-opto            1
+OK2      ACPL-227                    ACPL-227                    SOIC8      avago-opto            1
+OK3      ACPL-227                    ACPL-227                    SOIC8      avago-opto            1
+OK4      ACPL-227                    ACPL-227                    SOIC8      avago-opto            1
+R1       90                          R-US_R0402                  R0402      resistor              1
+R2       90                          R-US_R0402                  R0402      resistor              1
+R3       90                          R-US_R0402                  R0402      resistor              1
+R4       90                          R-US_R0402                  R0402      resistor              1
+R5       90                          R-US_R0402                  R0402      resistor              1
+R6       90                          R-US_R0402                  R0402      resistor              1
+R7       90                          R-US_R0402                  R0402      resistor              1
+R8       90                          R-US_R0402                  R0402      resistor              1
+R9       150k                        R-US_R0402                  R0402      resistor              1
+R10      150k                        R-US_R0402                  R0402      resistor              1
+R11      90                          R-US_R0402                  R0402      resistor              1
+R12      90                          R-US_R0402                  R0402      resistor              1
+SHT      SKHHCWA010                  SKHH                        SKHH       alps                  1
